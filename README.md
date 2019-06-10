@@ -44,3 +44,6 @@ I, [2019-06-10T15:50:15.554242 #39707]  INFO -- : Writing /Users/rafal/dev/sproc
 whereas in this case, where the file name does not match ".default.html", 
 the full base filename is used before the digest is appended.
 
+The resulting compiled assets can be seen in the `public/` directory in
+the repo.
+
